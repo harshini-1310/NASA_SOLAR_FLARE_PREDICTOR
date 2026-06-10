@@ -6,7 +6,7 @@ A Machine Learning-based web application that predicts solar flare classes using
 
 Hugging Face Deployment:
 
-https://harshinixiii-nasa-predictor.hf.space
+https://huggingface.co/spaces/Harshinixiii/NASA_PREDICTOR
 
 ## 📌 Project Overview
 
